@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\Jefferson_Riann\\Learning.NET\\Aula2\\LogicaCsharp\\LogicaCsharp.csproj": {}
+    "C:\\Users\\Aluno\\Documents\\Jefferson_Riann\\Learning.NET\\Aula2\\LogicaCsharp\\LogicaCsharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\Jefferson_Riann\\Learning.NET\\Aula2\\LogicaCsharp\\LogicaCsharp.csproj": {
+    "C:\\Users\\Aluno\\Documents\\Jefferson_Riann\\Learning.NET\\Aula2\\LogicaCsharp\\LogicaCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Jefferson_Riann\\Learning.NET\\Aula2\\LogicaCsharp\\LogicaCsharp.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\Jefferson_Riann\\Learning.NET\\Aula2\\LogicaCsharp\\LogicaCsharp.csproj",
         "projectName": "LogicaCsharp",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\Jefferson_Riann\\Learning.NET\\Aula2\\LogicaCsharp\\LogicaCsharp.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Documents\\Jefferson_Riann\\Learning.NET\\Aula2\\LogicaCsharp\\LogicaCsharp.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\Jefferson_Riann\\Learning.NET\\Aula2\\LogicaCsharp\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Documents\\Jefferson_Riann\\Learning.NET\\Aula2\\LogicaCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
