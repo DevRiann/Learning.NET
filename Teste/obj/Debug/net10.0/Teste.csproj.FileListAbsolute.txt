@@ -1,0 +1,15 @@
+C:\Users\jeffr\OneDrive\Desktop\.NET\Learning.NET\Teste\bin\Debug\net10.0\Teste.exe
+C:\Users\jeffr\OneDrive\Desktop\.NET\Learning.NET\Teste\bin\Debug\net10.0\Teste.deps.json
+C:\Users\jeffr\OneDrive\Desktop\.NET\Learning.NET\Teste\bin\Debug\net10.0\Teste.runtimeconfig.json
+C:\Users\jeffr\OneDrive\Desktop\.NET\Learning.NET\Teste\bin\Debug\net10.0\Teste.dll
+C:\Users\jeffr\OneDrive\Desktop\.NET\Learning.NET\Teste\bin\Debug\net10.0\Teste.pdb
+C:\Users\jeffr\OneDrive\Desktop\.NET\Learning.NET\Teste\obj\Debug\net10.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\OneDrive\Desktop\.NET\Learning.NET\Teste\obj\Debug\net10.0\Teste.AssemblyInfoInputs.cache
+C:\Users\jeffr\OneDrive\Desktop\.NET\Learning.NET\Teste\obj\Debug\net10.0\Teste.AssemblyInfo.cs
+C:\Users\jeffr\OneDrive\Desktop\.NET\Learning.NET\Teste\obj\Debug\net10.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Desktop\.NET\Learning.NET\Teste\obj\Debug\net10.0\Teste.sourcelink.json
+C:\Users\jeffr\OneDrive\Desktop\.NET\Learning.NET\Teste\obj\Debug\net10.0\Teste.dll
+C:\Users\jeffr\OneDrive\Desktop\.NET\Learning.NET\Teste\obj\Debug\net10.0\refint\Teste.dll
+C:\Users\jeffr\OneDrive\Desktop\.NET\Learning.NET\Teste\obj\Debug\net10.0\Teste.pdb
+C:\Users\jeffr\OneDrive\Desktop\.NET\Learning.NET\Teste\obj\Debug\net10.0\Teste.genruntimeconfig.cache
+C:\Users\jeffr\OneDrive\Desktop\.NET\Learning.NET\Teste\obj\Debug\net10.0\ref\Teste.dll
