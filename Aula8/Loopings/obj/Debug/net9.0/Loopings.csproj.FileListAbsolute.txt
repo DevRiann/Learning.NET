@@ -94,4 +94,4 @@ C:\Users\Aluno\Documents\Jefferson_Riann\Learning.NET\Aula8\Loopings\obj\Debug\n
 C:\Users\Aluno\Documents\Jefferson_Riann\Learning.NET\Aula8\Loopings\obj\Debug\net9.0\Loopings.pdb
 C:\Users\Aluno\Documents\Jefferson_Riann\Learning.NET\Aula8\Loopings\obj\Debug\net9.0\Loopings.genruntimeconfig.cache
 C:\Users\Aluno\Documents\Jefferson_Riann\Learning.NET\Aula8\Loopings\obj\Debug\net9.0\ref\Loopings.dll
-C:\Users\Aluno\Documents\Jefferson_Riann\Learning.NET\Aula8\Loopings\obj\Debug\net9.0\compressed\w9mu0tfq4t-ktkj6bz9j4.gz
+C:\Users\Aluno\Documents\Jefferson_Riann\Learning.NET\Aula8\Loopings\obj\Debug\net9.0\compressed\w9mu0tfq4t-zpy2zku5d3.gz

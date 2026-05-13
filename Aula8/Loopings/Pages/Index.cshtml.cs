@@ -1,3 +1,4 @@
+using System.ComponentModel;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
@@ -15,5 +16,13 @@ public class IndexModel : PageModel
     public void OnGet()
     {
 
+    }
+
+    [BindProperty]
+    public int numeroEscolhido {get; set;}
+
+    public void OnPost()
+    {
+        
     }
 }

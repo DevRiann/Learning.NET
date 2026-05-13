@@ -1,0 +1,25 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<header> 
+    <h1> Meu Primeiro Site com ASP.NET</h1>
+    <h2> Catalógo - Animes e Series </h2>
+    <p> Registrando o último episódio assistido</p>
+    <hr>
+</header>
+<body>
+    <div class="display-flex">
+        <div class="card" style="width: 18rem;">
+            <img src="/img/OnePiece.jpg" class="card-img-top" alt="One-Piece">
+            <div class="card-body">
+                <h5 class="card-title"> One-Piece </h5>
+                <label> Qual episódio você parou? </label>
+                <input type="string" asp-for="numeroEscolhido" />
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+        </div>
+    </div>    
+</body>

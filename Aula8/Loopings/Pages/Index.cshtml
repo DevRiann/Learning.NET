@@ -92,4 +92,27 @@
 {
     <h2> Meu produto é : @produtos[i] </h2>
 }
+<hr>
+
+<h2> Gabarito das Tabuadas - Input </h2>
+
+<form method="post">
+    <label>Digite um número:</label>
+    <input type="number" asp-for="numeroEscolhido" />
+    <button type="submit">Gerar Tabuada</button>
+</form>
+<hr>
+
+<div class="container-tabuadas">
+        <div class="tabuada-item">        
+            <h3> Tabuada @Model.numeroEscolhido </h3>
+
+            @for (int i = 0; i <= 10; i++) 
+            {
+                <p> @Model.numeroEscolhido x @i = @(Model.numeroEscolhido * i) </p>
+            }
+            
+        </div>        
+</div>
+
 
