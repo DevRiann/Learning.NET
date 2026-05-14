@@ -30,9 +30,20 @@ body {
   text-align: start;
 }
 
-.card img
-{
-  width: 100px;
-  height: 100%;
-  object-fit: cover;
+
+.card-serie {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Distribui o conteúdo igualmente */
+    padding: 15px;
+    overflow: hidden; /* Corta qualquer coisa que tente sair do contêiner */
+    border-radius: 8px; /* Arredonda os cantos para moldar a imagem */
 }
+
+.card-serie img {
+  width: 100%;
+  height: 100%; /* Definir uma altura fixa para as imagens padroniza os cartões */
+  object-fit: cover; /* Recorta a imagem proporcionalmente sem distorcer */
+ 
+}
+
