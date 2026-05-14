@@ -10,16 +10,24 @@
     <p> Registrando o último episódio assistido</p>
     <hr>
 </header>
+
 <body>
-    <div class="display-flex">
-        <div class="card" style="width: 18rem;">
-            <img src="/img/OnePiece.jpg" class="card-img-top" alt="One-Piece">
-            <div class="card-body">
-                <h5 class="card-title"> One-Piece </h5>
-                <label> Qual episódio você parou? </label>
-                <input type="string" asp-for="numeroEscolhido" />
-                <a href="#" class="btn btn-primary">Go somewhere</a>
-            </div>
+    <form method="post">
+        <div>
+            <label for="Titulo"> Nome do Anime/Série: </label>
+            <input type="text" id="Titulo" name="Titulo" required />
         </div>
-    </div>    
+        
+        <div>
+            <label for="UltimoEpisodio"> Nº do Episódio: </label>
+            <input type="number" id="UltimoEpisodio" name="UltimoEpisodio" required />
+        </div>
+
+        <div>
+            <label for="UrlImagem"> Imagem de Capa: </label>
+            <input type="text" id="UrlImagem" name="UrlImagem" required />
+        </div>
+
+        <button type="submit">Salvar no Banco</button>
+    </form>   
 </body>
